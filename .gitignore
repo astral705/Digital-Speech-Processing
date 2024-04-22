@@ -5,3 +5,7 @@ voice-activity-detection-sjtu-spring-2024/latex/
 voice-activity-detection-sjtu-spring-2024/data/
 
 *.pdf
+
+**/__pycache__/
+
+__pycache__/
