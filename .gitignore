@@ -7,6 +7,9 @@ voice-activity-detection-sjtu-spring-2024/vad/data
 **/.DS_Store
 
 *.pdf
+*.txt
+*.wav
+
 
 **/__pycache__/
 
