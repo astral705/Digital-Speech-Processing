@@ -1,8 +1,10 @@
-voice-activity-detection-sjtu-spring-2024/waves/
+voice-activity-detection-sjtu-spring-2024/vad/waves/
 
-voice-activity-detection-sjtu-spring-2024/latex/
+voice-activity-detection-sjtu-spring-2024/vad/latex/
 
-voice-activity-detection-sjtu-spring-2024/data/
+voice-activity-detection-sjtu-spring-2024/vad/data/
+
+**/.DS_Store
 
 *.pdf
 
